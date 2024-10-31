@@ -1,0 +1,21 @@
+Map<String, Map<String, double>> cityCoordinates = {
+  "rome": {"latitude": 41.9028, "longitude": 12.4964},
+  "milan": {"latitude": 45.4642, "longitude": 9.1900},
+  "naples": {"latitude": 40.8518, "longitude": 14.2681},
+  "turin": {"latitude": 45.0703, "longitude": 7.6869},
+  "palermo": {"latitude": 38.1157, "longitude": 13.3615},
+  "genoa": {"latitude": 44.4056, "longitude": 8.9463},
+  "bologna": {"latitude": 44.4949, "longitude": 11.3426},
+  "florence": {"latitude": 43.7696, "longitude": 11.2550},
+  "venice": {"latitude": 45.4408, "longitude": 12.3155},
+  "verona": {"latitude": 45.4384, "longitude": 10.9916},
+  "catania": {"latitude": 37.5079, "longitude": 14.1970},
+  "trieste": {"latitude": 45.6495, "longitude": 13.7768},
+  "bergamo": {"latitude": 45.6983, "longitude": 9.6773},
+  "padua": {"latitude": 45.4064, "longitude": 11.8768},
+  "livorno": {"latitude": 43.5486, "longitude": 10.3095},
+  "foggia": {"latitude": 41.4611, "longitude": 15.5448},
+  "salerno": {"latitude": 40.6779, "longitude": 14.7681},
+  "rimini": {"latitude": 44.0666, "longitude": 12.5696},
+  // Add other cities as needed
+};
